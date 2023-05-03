@@ -1,6 +1,6 @@
 Package: com.noisyflake.lsdirecttouch
 Name: LSDirectTouch
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Activate LS buttons with a single touch
 Maintainer: NoisyFlake
