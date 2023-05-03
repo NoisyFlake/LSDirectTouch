@@ -4,9 +4,9 @@ INSTALL_TARGET_PROCESSES = SpringBoard
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = LSDirectTouch
+TWEAK_NAME = zzzLSDirectTouch
 
-LSDirectTouch_FILES = Tweak.x
-LSDirectTouch_CFLAGS = -fobjc-arc
+zzzLSDirectTouch_FILES = Tweak.x
+zzzLSDirectTouch_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
